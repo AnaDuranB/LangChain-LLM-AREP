@@ -159,9 +159,11 @@ LangChain-LLM-AREP/
 
 Aquí hay un ejemplo de la salida en la consola:
 
-![image.png](attachment:b57eab55-2e3a-4633-a7e1-1c67498925e8:image.png)
+![image](https://github.com/user-attachments/assets/fe03225e-ccbb-4894-92f1-f4380253c6ec)
 
-![image.png](attachment:5301c392-344f-4094-8a76-359856362157:image.png)
+
+![image](https://github.com/user-attachments/assets/d8a42f77-9227-4a3b-b2ea-e25d0f409b9b)
+
 
 ---
 
