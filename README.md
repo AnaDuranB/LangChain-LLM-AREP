@@ -17,7 +17,7 @@ Para ejecutar este proyecto, necesitas:
 2. Un entorno de Google Colab o un entorno local con Python 3.8+.
 
 3. Las siguientes bibliotecas de Python:
-  4. openai
+    - openai
 
 ## **Instalación**
 
