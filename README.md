@@ -166,11 +166,9 @@ Aquí hay un ejemplo de la salida en la consola:
 
 
 ---
+### **Autor**
 
-## Autor
-
-Ana Maria Duran https://github.com/AnaDuranB
+- Ana Maria Duran - *AREP* *LangChain-LLM-AREP* - [AnaDuranB](https://github.com/AnaDuranB)
 
 ---
-
 ¡Gracias por revisar este proyecto! 😊
